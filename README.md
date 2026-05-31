@@ -80,21 +80,6 @@ A Formula 1 data and analytics app split across a TypeScript frontend and a dedi
 - **CAAT Pension Plan** — Software Developer & Tester *(Sep 2021 – Jul 2022)*
 - **Health Compass** — Software Developer, Co-op *(Jan 2021 – Apr 2021)*
 
-🎓 Diploma in Computer System Technology (Software Development & Networking), **Sheridan College**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSahdev8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSahdev8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSahdev8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center"><i>Let's build something great together. 🚀</i></p>

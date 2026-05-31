@@ -66,6 +66,8 @@
 ### 🚀 Featured Projects
 
 #### 🏎️ [F1 RaceLab](https://github.com/ShivamSahdev8/f1-racelab-ui) — *Where F1 data meets fan intelligence*
+Check it out >>>> https://d7echn6hj4ca9.cloudfront.net/shell/live
+
 A Formula 1 data and analytics app split across a TypeScript frontend and a dedicated API service.
 - **[f1-racelab-ui](https://github.com/ShivamSahdev8/f1-racelab-ui)** — TypeScript frontend for exploring race data
 - **[f1-racelab-api](https://github.com/ShivamSahdev8/f1-racelab-api)** — backend service powering the app

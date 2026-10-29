@@ -3,6 +3,12 @@
 <h3 align="center">Software Developer · Full-Stack · DevOps · AWS Certified</h3>
 
 <p align="center">
+  <a href="https://shivamsahdev.com/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://afterset.shivamsahdev8.workers.dev/">
+    <img src="https://img.shields.io/badge/AfterSet-506B5B?style=for-the-badge" alt="AfterSet workout journal"/>
+  </a>
   <a href="https://www.linkedin.com/in/shivam-sahdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,6 +28,7 @@
 - ⚙️ I build and optimize **CI/CD pipelines** and care about clean code, SOLID principles, and Agile/Scrum
 - 🤖 Big advocate for **AI-assisted development** (GitHub Copilot, MCP, agentic workflows)
 - 📍 Based in **Toronto, Ontario, Canada**
+- 🛠️ Currently building **[AfterSet](https://afterset.shivamsahdev8.workers.dev/)** and sharing my work at **[shivamsahdev.com](https://shivamsahdev.com/)**
 - 📫 Reach me at **shivamsahdev8@gmail.com**
 
 ---
@@ -65,14 +72,41 @@
 
 ### 🚀 Featured Projects
 
-#### 🏎️ [F1 RaceLab](https://github.com/ShivamSahdev8/f1-racelab-ui) — *Where F1 data meets fan intelligence*
-Check it out >>>> https://d7echn6hj4ca9.cloudfront.net/shell/index.html
+#### 🏋️ [AfterSet](https://afterset.shivamsahdev8.workers.dev/) — A gym journal built for everyday training
 
-A Formula 1 data and analytics app split across a TypeScript frontend and a dedicated API service.
-- **[f1-racelab-ui](https://github.com/ShivamSahdev8/f1-racelab-ui)** — TypeScript frontend for exploring race data
-- **[f1-racelab-api](https://github.com/ShivamSahdev8/f1-racelab-api)** — backend service powering the app
+A phone-first workout app for planning splits, logging sets, and tracking progress with equipment-specific setup and loading.
 
-> 💡 *More projects on the way — check out my [repositories](https://github.com/ShivamSahdev8?tab=repositories).*
+- **Training:** weekly/monthly splits, workout templates, lb/kg logging, plate calculations, and setup-specific personal records.
+- **Exercise library:** 984 exercises, with search, muscle and equipment filters, favourites, recent exercises, and researched stretching guides.
+- **Your journal:** account-synced history and preferences, plus local recovery of unfinished sets.
+- **Recent improvements:** finish/reopen workouts, clearer calendar completion markers, copy the previous workout with Undo, and retractable glass navigation with light/dark themes.
+
+**[Open AfterSet →](https://afterset.shivamsahdev8.workers.dev/)**
+
+#### 🌐 [Beyond the Interface](https://shivamsahdev.com/) — My personal portfolio
+
+My experience, selected projects, and résumé in one place, built with **React 19, TypeScript, and Tailwind CSS 4** and hosted on **Cloudflare Workers**.
+
+- Updated project showcases for **AfterSet** and **F1 RaceLab**, alongside my career history and refreshed portraits.
+- Custom domains and a downloadable résumé make it easy to explore my work and get in touch.
+
+**[Visit portfolio →](https://shivamsahdev.com/)** · **[Download résumé](https://shivamsahdev.com/documents/Shivam_Sahdev_Resume_FullStackDeveloper.pdf)**
+
+Also available at [www.shivamsahdev.com](https://www.shivamsahdev.com/) and the [Cloudflare address](https://beyond-the-interface.shivamsahdev8.workers.dev/).
+
+#### 🏎️ [F1 RaceLab](https://d7echn6hj4ca9.cloudfront.net/shell/index.html) — Where F1 data meets fan intelligence
+
+A Formula 1 companion built with **Angular 21, Nx, and Module Federation**, with independently deployable micro-frontends hosted on **AWS S3 and CloudFront**.
+
+- Live timing, championship standings, news, and an interactive race strategy simulator.
+- Illustrative race estimates now run in the browser, with one guest trial and sign-in to continue.
+- **[Frontend source](https://github.com/ShivamSahdev8/f1-racelab-ui)** · **[Backend infrastructure](https://github.com/ShivamSahdev8/f1-racelab-api)**
+
+**[Open F1 RaceLab →](https://d7echn6hj4ca9.cloudfront.net/shell/index.html)**
+
+Explore more in my [repositories](https://github.com/ShivamSahdev8?tab=repositories).
+
+*Project highlights updated October 29, 2026.*
 
 ---
 

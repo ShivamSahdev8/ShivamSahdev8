@@ -6,9 +6,6 @@
   <a href="https://shivamsahdev.com/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://afterset.shivamsahdev8.workers.dev/">
-    <img src="https://img.shields.io/badge/AfterSet-506B5B?style=for-the-badge" alt="AfterSet workout journal"/>
-  </a>
   <a href="https://www.linkedin.com/in/shivam-sahdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
